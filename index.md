@@ -19,7 +19,7 @@ Syntax highlighted code block
 - List
 
 1. Using terminal
-2. Not exams
+2. No exams
 
 **Bold** and _Italic_ and `Code` text
 
